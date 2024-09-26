@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Veolia cabinet</string>
+    <string name="error_connection_server">Проверьте соединение с интернетом и попробуйте пройти проверку снова</string>
+    <string name="success">Успех</string>
+    <string name="access_page_denied">Доступ к этой странице недоступен</string>
+</resources>
